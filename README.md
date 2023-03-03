@@ -17,10 +17,10 @@ Python Basics 4 Week Course
         - While Loops
         - Break and Continue
         - Pass
+    - Functions
 
 * Week 2:
 
-    - Functions
     - Class and Objects
     - File I/O
     - Exceptions
