@@ -9,8 +9,9 @@ Python Basics 4 Week Course
 * Week 1:
 
     - Introduction to Python
-    - Variables and Data Types
-    - Lists, Tuples, Dictionaries, and Sets
+    - [Variables](./week-1/variables.md)
+    - [Data Types](./week-1/data-types.md)
+    - [Lists, Tuples, Dictionaries, and Sets](./week-1/data-types.md#)
     - Control Flow
         - If Statements
         - For Loops
