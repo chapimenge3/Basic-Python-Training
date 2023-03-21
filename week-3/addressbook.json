@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chapi Menge",
+        "address": "Adama",
+        "phone": "912345678",
+        "email": "menge@gmail.com",
+        "id": "abce"
+    },
+    {
+        "name": "Abeba ayele",
+        "address": "Tepi",
+        "phone": "912345678",
+        "email": "Abeba@gmail.com",
+        "id": "abcf"
+    },
+    {
+        "name": "Kebede",
+        "address": "Jima",
+        "phone": "912345678",
+        "email": "Kebede@gmail.com",
+        "id": "abcg"
+    },
+    {
+        "name": "Blen",
+        "address": "Addis Ababa",
+        "phone": "912345678",
+        "email": "Blen@gmail.com",
+        "id": "abcj"
+    },
+    {
+        "name": "Aselef",
+        "address": "Tepi",
+        "phone": "919105420",
+        "email": "aselef@gmail.com",
+        "id": "6e7a"
+    },
+    {
+        "name": "Juve ruki",
+        "address": "Tepi",
+        "phone": "9542425321",
+        "email": "juve@juve.com",
+        "id": "3bfd"
+    }
+]
