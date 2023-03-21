@@ -1,4 +1,5 @@
 Line 1
 Line 2
 Line 3
+hello class
 This text will be appended to the file
